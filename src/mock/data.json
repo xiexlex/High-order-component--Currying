@@ -1,0 +1,29 @@
+{
+  "movie": [
+    {
+      "img": "/img/1.jpg",
+      "name": "叶问",
+      "flag": true
+    },
+    {
+      "img": "/img/2.jpg",
+      "name": "误杀",
+      "flag": true
+    },
+    {
+      "img": "/img/3.jpg",
+      "name": "半个喜剧",
+      "flag": false
+    },
+    {
+      "img": "/img/4.jpg",
+      "name": "星球大战",
+      "flag": false
+    },
+    {
+      "img": "/img/5.jpg",
+      "name": "特警队",
+      "flag": false
+    }
+  ]
+}

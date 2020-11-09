@@ -1,0 +1,19 @@
+*{
+  user-select: none;
+}
+.app-tag {
+  width: 150px;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+  border:1px solid black;
+  cursor: pointer;
+}
+.active {
+  background: red;
+}
+.img-border {
+  border:2px solid red;
+}
